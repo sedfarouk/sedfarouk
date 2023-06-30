@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm *Farouk*
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Far-World&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on something great for sure 💪
 - 👨‍💻 Check out some of my projects [here](https://github.com/Far-World?tab=repositories)
