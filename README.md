@@ -1,4 +1,4 @@
-### Hi there 👋, I'm **Farouk**
+### Hi there 👋, I'm *Farouk*
 
 <!--
 - 🔭 I’m currently working on ...
