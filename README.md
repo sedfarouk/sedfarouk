@@ -42,7 +42,7 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Far-World&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;[![Farouk's Github Stats](https://github-readme-stats.vercel.app/api?username=Far-World&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Far-World&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;[![Farouk's Github Stats](https://github-readme-stats.vercel.app/api?username=Far-World&show_icons=true&theme=radical)]&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Far-World&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
