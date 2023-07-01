@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on anything that pushes my limits 🔥
 - 💬 Ask me about you and me 🙂
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-farouk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-sedick)
-- 😄 Pronouns: He
 - ⚡ Fun fact: My role model is the alpha version of myself 🙃
 
 ---
