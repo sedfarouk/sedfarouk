@@ -3,12 +3,12 @@
   <a href="https://www.linkedin.com/in/farouk-sedick"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Far-World&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=FaroukDev-tech&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, this is <i>Farouk</i></h1>
 
 - 🔭 I’m currently working on something great for sure 💪
-- 👨‍💻 Check out some of my projects [here](https://github.com/Far-World?tab=repositories)
+- 👨‍💻 Check out some of my projects [here](https://github.com/FaroukDev-tech?tab=repositories)
 - 🌱 I’m currently learning a lot I can from others like you 😉
 - 👯 I’m looking to collaborate on anything that pushes my limits 🔥
 - 💬 Ask me about you and me 🙂
@@ -39,8 +39,8 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Far-World&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Farouk's Github Stats](https://github-readme-stats.vercel.app/api?username=Far-World&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Far-World&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FaroukDev-tech&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Farouk's Github Stats](https://github-readme-stats.vercel.app/api?username=FaroukDev-tec&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukDev-tec&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
