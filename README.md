@@ -8,7 +8,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, this is <i>Farouk</i></h1>
 
 - 🔭 I’m currently working on something great for sure 💪
-- 👨‍💻 Check out some of my projects [here](https://github.com/FaroukDev-tech?tab=repositories)
+- 👨‍💻 Check out some of my projects [here](https://github.com/sedfarouk?tab=repositories)
 - 🌱 I’m currently learning a lot I can from others like you 😉
 - 👯 I’m looking to collaborate on anything that pushes my limits 🔥
 - 💬 Ask me about you and me 🙂
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/Far-World/github-devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sedfarouk/github-devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
@@ -38,8 +38,8 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukDev-tech)](https://github.com/FaroukDev-tech/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukDev-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedfarouk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedfarouk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
