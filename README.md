@@ -5,14 +5,14 @@
 <p align="center">
 <p align="center"><img src="https://komarev.com/ghpvc/?username=FaroukDev-tech&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, this is <i>Farouk</i></h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, this is <i>Farouk</i>, fighting Imposter Syndrome 💪</h1>
 <h6 align="center"> Jack of all trades, ...mastering <strong>*</strong>... </h6>
 
 - 🔭 I’m currently working on something great for sure 💪
-- 👨‍💻 Check out some of my projects [here](https://github.com/sedfarouk?tab=repositories)
+- 👨‍💻 Check out some of my projects (more of a localhost guy) [here](https://github.com/sedfarouk?tab=repositories)
 - 🌱 I’m currently learning a lot I can from others like you 😉
 - 👯 I’m looking to collaborate on anything that pushes my limits 🔥
-- 💬 Ask me about you and me 🙂
+- 💬 Ask me about Competitive Programming, System Design, Best SWE Practices
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-farouk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-sedick)
 - ⚡ Fun fact: My role model is the alpha version of myself 🙃
 
