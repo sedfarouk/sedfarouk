@@ -8,7 +8,7 @@
 <h1 align="center">i'm farouk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, fighting <em>imposter syndrome</em> 😵‍💫</h1>
 <h6 align="center"> Jack of all trades, ...mastering <strong>*</strong>... </h6>
 
-- 🔭 I’m currently working on something great for sure 💪
+- 🔭 I’m currently working on something great 💪
 - 👨‍💻 Check out some of my projects (more of a localhost guy) [here](https://github.com/sedfarouk?tab=repositories)
 - 🌱 I’m currently learning a lot I can from others like you 😉
 - 👯 I’m looking to collaborate on anything that pushes my limits 🔥
