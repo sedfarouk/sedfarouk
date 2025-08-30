@@ -7,7 +7,7 @@
   **🎓 Computer Engineering @ University of Ghana | '26**
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sedfarouk-4285f4?style=for-the-badge&logoColor=white)](https://github.com/sedfarouk)
-  [![LinkedIn](https://img.shields.io/badge/🗨️_LinkedIn-sedfarouk-4285f4?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/farouk-sedick/)
+  [![LinkedIn](https://img.shields.io/badge/🗨️_LinkedIn-Farouk-4285f4?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/farouk-sedick/)
   [![LeetCode](https://img.shields.io/badge/⚡_LeetCode-farouk--dev-ffa116?style=for-the-badge&logoColor=white)](https://leetcode.com/u/farouk-dev)
   [![Email](https://img.shields.io/badge/📧_Let's_Connect-0078d4?style=for-the-badge&logoColor=white)](mailto:sadikalhanssah@gmail.com)
   
