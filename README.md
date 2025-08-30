@@ -339,12 +339,6 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 
 </div>
 
-**🎯 Random Skills Unlocked:**
-- Can explain recursion using Barcelona's tiki-taka passing style ⚽
-- Debug smart contracts while reciting Jon Snow quotes 🗡️
-- Convert any problem into a blockchain use case 🔗
-- Optimize gas costs better than Tyrion optimizes wine consumption 🍷
-
 ---
 
 ## 🚀 Current Missions
