@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web3+Enthusiast;Computer+Engineering+Student;Blockchain+Builder;Problem+Solver)
   
-  **🎓 Computer Engineering @ University of Ghana | Class of 2026**
+  **🎓 Computer Engineering @ University of Ghana | '26**
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sedfarouk-4285f4?style=for-the-badge&logoColor=white)](https://github.com/sedfarouk)
   [![LeetCode](https://img.shields.io/badge/⚡_LeetCode-farouk--dev-ffa116?style=for-the-badge&logoColor=white)](https://leetcode.com/u/farouk-dev)
@@ -29,7 +29,7 @@ interface Developer {
 }
 
 const farouk: Developer = {
-  name: "Farouk Sed",
+  name: "Farouk Sedick",
   location: "Accra, Ghana 🇬🇭",
   education: "Computer Engineering @ UG",
   passions: ["Web3 Innovation", "Full-Stack Development", "Problem Solving"],
