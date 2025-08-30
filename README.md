@@ -4,12 +4,11 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web3+Enthusiast;Computer+Engineering+Student;Blockchain+Builder;Problem+Solver)
   
-  **🎓 Computer Engineering @ University of Ghana | '26**
+  **🎓 Computer Engineering @ University of Ghana | Class of 2026**
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sedfarouk-4285f4?style=for-the-badge&logoColor=white)](https://github.com/sedfarouk)
-  [![LinkedIn](https://img.shields.io/badge/🗨️_LinkedIn-Farouk-4285f4?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/farouk-sedick/)
   [![LeetCode](https://img.shields.io/badge/⚡_LeetCode-farouk--dev-ffa116?style=for-the-badge&logoColor=white)](https://leetcode.com/u/farouk-dev)
-  [![Email](https://img.shields.io/badge/📧_Let's_Connect-0078d4?style=for-the-badge&logoColor=white)](mailto:sadikalhanssah@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_Let's_Connect-0078d4?style=for-the-badge&logoColor=white)](mailto:your-email@example.com)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sedfarouk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
   
@@ -30,7 +29,7 @@ interface Developer {
 }
 
 const farouk: Developer = {
-  name: "Farouk Sedick",
+  name: "Farouk Sed",
   location: "Accra, Ghana 🇬🇭",
   education: "Computer Engineering @ UG",
   passions: ["Web3 Innovation", "Full-Stack Development", "Problem Solving"],
@@ -97,11 +96,11 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>Bootstrap</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/axios/axios/main/docs/assets/logo.svg" alt="Axios" width="40" height="40"/>
 <br><sub>Axios</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="TanStack Query" />
+<img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" width="40" height="40" alt="TanStack Query" />
 <br><sub>TanStack Query</sub>
 </td>
 </tr>
@@ -119,7 +118,7 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>.NET Core</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="EF Core" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="EF Core" width="40" height="40"/>
 <br><sub>EF Core</sub>
 </td>
 <td align="center" width="80">
@@ -149,15 +148,15 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>PostgreSQL</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
 <br><sub>SQL Server</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/A/automapper-logo-9E9F4ACB85-seeklogo.com.png" width="40" height="40" alt="AutoMapper" />
+<img src="https://avatars.githubusercontent.com/u/890883?s=200&v=4" width="40" height="40" alt="AutoMapper" />
 <br><sub>AutoMapper</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xunit/xunit-plain.svg" alt="xUnit" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/2608468?s=200&v=4" alt="xUnit" width="40" height="40"/>
 <br><sub>xUnit</sub>
 </td>
 </tr>
@@ -171,7 +170,7 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>Solidity</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="40" height="40" alt="Hardhat" />
+<img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/src/assets/hardhat-logo.svg" width="40" height="40" alt="Hardhat" />
 <br><sub>Hardhat</sub>
 </td>
 <td align="center" width="80">
@@ -179,15 +178,15 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>Scaffold-ETH</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" width="40" height="40" alt="Ethereum" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" width="40" height="40" alt="Ethereum" />
 <br><sub>Ethereum</sub>
 </td>
 <td align="center" width="80">
-<img src="https://docs.openzeppelin.com/images/logo-zeppelin.svg" width="40" height="40" alt="OpenZeppelin" />
+<img src="https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/logo.svg" width="40" height="40" alt="OpenZeppelin" />
 <br><sub>OpenZeppelin</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="40" height="40" alt="Web3.js" />
+<img src="https://raw.githubusercontent.com/ethereum/web3.js/4.x/assets/logo/web3js.svg" width="40" height="40" alt="Web3.js" />
 <br><sub>Web3.js</sub>
 </td>
 </tr>
@@ -205,15 +204,15 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>RainbowKit</sub>
 </td>
 <td align="center" width="80">
-<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="40" height="40" alt="MetaMask" />
+<img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="40" height="40" alt="MetaMask" />
 <br><sub>MetaMask</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/mochajs/mocha/master/assets/mocha-logo.svg" alt="Mocha" width="40" height="40"/>
 <br><sub>Mocha</sub>
 </td>
 <td align="center" width="80">
-<img src="https://www.chaijs.com/img/chai-logo.png" width="40" height="40" alt="Chai" />
+<img src="https://raw.githubusercontent.com/chaijs/chai/master/assets/chai-logo.png" width="40" height="40" alt="Chai" />
 <br><sub>Chai</sub>
 </td>
 </tr>
@@ -243,8 +242,60 @@ I'm a passionate **full-stack developer** and **Web3 architect** who thrives at 
 <br><sub>Postman</sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/>
 <br><sub>npm</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=yarn" width="40" height="40" alt="Yarn" />
+<br><sub>Yarn</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=webpack" width="40" height="40" alt="Webpack" />
+<br><sub>Webpack</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" />
+<br><sub>Vite</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+<br><sub>Figma</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" />
+<br><sub>Notion</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest" />
+<br><sub>Jest</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=eslint" width="40" height="40" alt="ESLint" />
+<br><sub>ESLint</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=prettier" width="40" height="40" alt="Prettier" />
+<br><sub>Prettier</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+<br><sub>Vercel</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" alt="Netlify" />
+<br><sub>Netlify</sub>
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+<br><sub>Firebase</sub>
 </td>
 </tr>
 </table>
